@@ -1,7 +1,7 @@
 html, body {
     cursor: url('./flappy-sprite.png'), auto !important;
 }
-* {
+body {
     background: #70c5ce;
 }
 
