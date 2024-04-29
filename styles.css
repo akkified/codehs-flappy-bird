@@ -1,3 +1,4 @@
-body {
-    cursor: url('flappy-sprite.png'), auto;
+html, body {
+    cursor: url('flappy-sprite.cur'), auto;
 }
+
