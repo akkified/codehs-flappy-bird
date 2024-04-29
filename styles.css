@@ -1,4 +1,4 @@
 html, body {
-    cursor: url('flappy-sprite.cur'), auto;
+    cursor: url('./flappy-sprite.cur'), auto !important;
 }
 
