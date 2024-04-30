@@ -5,10 +5,9 @@
    
  h1 {
     font-family: flappyBirdy;
-    color: white;
     font-size: 48px;
     color: black;
-    text-shadow: 4px 4px 0px #000;
+    text-shadow: 4px 4px 0px white;
  }
  body {
     background-color: white; /*  #70c5ce  Sky blue background */
