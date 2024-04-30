@@ -1,4 +1,21 @@
-body {
-    background: #70c5ce;
+@font-face {
+    font-family: flappyBirdy;
+    src: url(./FlappyBirdy.ttf);
+ }
+   
+ h1 {
+    font-family: flappyBirdy;
+    color: white;
+    font-size: 48px;
+    color: #ffffff;
+    text-shadow: 4px 4px 0px #000;
+ }
+ body {
+    background-color: #70c5ce; /* Sky blue background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
