@@ -7,11 +7,11 @@
     font-family: flappyBirdy;
     color: white;
     font-size: 48px;
-    color: #ffffff;
+    color: black;
     text-shadow: 4px 4px 0px #000;
  }
  body {
-    background-color: #70c5ce; /* Sky blue background */
+    background-color: white; /*  #70c5ce  Sky blue background */
     display: flex;
     justify-content: center;
     align-items: center;
