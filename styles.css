@@ -1,7 +1,10 @@
+* {
+    font-family: "Press Start 2P", system-ui;
+}
+
 body {
     margin: 0;
     background-color: #4ec0ca; /* The typical Flappy Bird blue background */
-    font-family: Arial, sans-serif;
 }
 
 .navbar {
@@ -38,9 +41,26 @@ body {
     position: absolute;
     left: 50%;
     bottom: 0;
+    transform: translateY(100%);
     transform: translateX(-50%);
-    width: 30px;
-    height: 20px;
+    width: 120px;
+    height: 70px;
     background: url('pipe.png') no-repeat center center;
-    background-size: 300px 200px;
+    background-size: 125%;
 }
+
+
+.title { 
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+    margin-top: 10px;
+}
+div {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    
+}
+
+  
